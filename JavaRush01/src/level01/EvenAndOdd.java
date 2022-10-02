@@ -2,6 +2,8 @@
 Если индекс массива чётный — присвоить значение "Чётный" (ноль — цифра чётная), иначе присвоить "Нечётный".
  */
 
+package level01;
+
 public class EvenAndOdd {
     public static final String ODD = "Нечётный";
     public static final String EVEN = "Чётный";

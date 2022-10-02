@@ -2,6 +2,8 @@
 который меняет знак элемента массива array на противоположный, если значение этого элемента чётное.
 */
 
+package level01;
+
 public class ArrayElements {
     public static int[] array = new int[]{-1, 2, 3, -4, -5};
 

@@ -1,3 +1,5 @@
+package level01;
+
 public class BinarySearch {
     public static void main(String[] args) {
         int[] list = {-3, 1, 2, 4, 9, 23};

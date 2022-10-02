@@ -1,3 +1,5 @@
+package level01;
+
 public class MultiplicationTable {
     public static int[][] MULTIPLICATION_TABLE;
 

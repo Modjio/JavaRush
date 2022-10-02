@@ -15,6 +15,8 @@ array[3][0] = 3 + 0 = 3.
 Числа в строке разделены пробелом.
 */
 
+package level01;
+
 public class TriangularArray {
     public static int[][] result = new int[10][];
 
